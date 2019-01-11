@@ -18,7 +18,7 @@ If not, the app will log a phrase like Insufficient quantity!, and then prevent 
 This means updating the SQL database to reflect the remaining quantity.
 Once the update goes through, the customer will be given the total cost of their purchase.
 
-[Click here to demo the bamazonCustomer.js!](https://youtu.be/p7DNw9cgBio)
+[Click here to demo the bamazonCustomer.js!](https://youtu.be/RWs7zeapTjM)
  
  # Manager View
 * In addition, a manager specific interface was created to allow the viewing of all inventory, low inventory, adding more stock, and adding new products. Every edit that is saved is automatically updated to the bamazon database.
